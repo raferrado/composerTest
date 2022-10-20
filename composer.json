@@ -38,6 +38,5 @@
     "scripts-descriptions": {
         "check": "Roda as verificações do código: PHAN, PHPCS e PHPUNIT"
     },
-    "license": "GPL",
     "bin": ["buscador-cursos.php"]
 }
