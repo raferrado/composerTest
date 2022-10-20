@@ -1,10 +1,10 @@
 {
-    "name": "rafael/buscador-cursos",
+    "name": "raferrado/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "authors": [
         {
-            "name": "Rafael Rodrigues"
+            "name": "Rafael RIbeiro Rodrigues"
         }
     ],
     "require": {
